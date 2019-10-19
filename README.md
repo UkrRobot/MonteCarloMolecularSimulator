@@ -6,3 +6,5 @@ An essential and very important component of the Metropolis algorithm and thermo
 In the thermostat algorithm on each step of the Markov time, one of the degrees of freedom is brought to the thermal equilibrium with the exterior “thermostat” having the temperature T; other degrees of freedom are fixed for this step. As a result, of the multiple recurring of such procedure for all degrees of freedom and for a long Markov time, establishing full thermodynamic equilibrium of the system with the thermostat occurs.
 
 ![alt text](https://github.com/UkrRobot/MonteCarloMolecularSimulator/blob/master/MonteCarlo.png)
+
+This program was developed under the guidance of Professor A. Ovrutsky.
